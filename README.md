@@ -3,6 +3,7 @@
 Hi, I'm Graziella! I'm a data science enthusiast who is passionate about studying how to improve corporate performance trhough data analytics.
 
 About me :cake: :
+- Postgraduate student in Business Insights and Analytics :star2:
 - Data Analyst volunteer at FCBB :bar_chart:
 - Pronouns: She/Her :woman:
 - Hobbies: Books :books: | Chess :chess_pawn:
