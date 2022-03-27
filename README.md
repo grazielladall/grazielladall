@@ -2,7 +2,7 @@
 
 Hi, I'm Graziella! I'm a data science enthusiast who is passionate about studying how to improve corporate performance trhough data analytics.
 
-About me :cake: :
+About me :
 - Postgraduate student in Business Insights and Analytics (April 2022 Graduation) :star2:
 - Data Analyst intern at FCBB :bar_chart:
 - Pronouns: She/Her :woman:
