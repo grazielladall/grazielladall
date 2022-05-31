@@ -4,7 +4,7 @@ About me :
 - Postgraduate New Grad in Business Insights and Analytics (May 2022 Graduation) @Humber College :star2:
 - Pronouns: She/Her :woman:
 - Hobbies: Books :books: | Chess :chess_pawn:
-- Technical Skills:SQL, Python, R, IBM SPSS Statistics, Microsoft Power BI, and more. 🖥️
+- Technical Skills: SQL, Python, R, IBM SPSS Statistics, Microsoft Power BI, and more. 🖥️
 - Connect with me: <a href="https://www.linkedin.com/in/grazielladall/">LinkedIn</a> 💼
 
 ------------------------------------------------------------------------------------------------------	
