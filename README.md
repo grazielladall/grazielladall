@@ -5,7 +5,7 @@ I am Graziella. I am passionate about helping organizations make effective use o
 About me :
 - Postgraduate New Grad in Business Insights and Analytics (May 2022 Graduation) @Humber College :star2:
 - Hobbies: Books :books: | Chess :chess_pawn:
-- Technical Skills: SQL, Python, R, IBM SPSS Statistics, Microsoft Power BI, Machine Learning, and more. 🖥️
+- Technical Skills: SQL, Python, Microsoft Power BI, Tableau, Machine Learning, and more. 🖥️
 - Languages I speak: Portuguese, English, French, Spanish :earth_americas:
 - Currently working on a SQL Project  :thought_balloon:
 - Connect with me: <a href="https://www.linkedin.com/in/grazielladall/">LinkedIn</a> 💼
