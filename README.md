@@ -7,8 +7,8 @@ About me :
 - Hobbies: Books :books: | Chess :chess_pawn:
 - Technical Skills: SQL, Python, Microsoft Power BI, Tableau, Machine Learning, and more. 🖥️
 - Languages I speak: Portuguese, English, French, Spanish :earth_americas:
-- Currently working on a SQL Project <a href="https://www.getdatalit.com/">@dataLit target = "_blank"</a>   :thought_balloon:
-- Connect with me: <a href="https://www.linkedin.com/in/grazielladall/">LinkedIn target = "_blank"</a> 💼
+- Currently working on a SQL Project <a href="https://www.getdatalit.com/">@dataLit</a>   :thought_balloon:
+- Connect with me: <a href="https://www.linkedin.com/in/grazielladall/">LinkedIn</a> 💼
 
 Check out my repository :point_down:
 
