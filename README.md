@@ -1,6 +1,6 @@
 # Hi there 👋👩💻
 
-I am Graziella. I am passionate about helping organizations make effective use of their data; from the first ideas around what it is important to measure and how to grab data accurately, through exploratory data analysis and data preparation, all the way to impactful presentation of insights.  
+I am Graziella. I am passionate about helping organizations make effective use of their data; from the first ideas around what it is important to measure and how to grab data accurately, through exploratory data analysis and data preparation, all the way to impactful presentation of insights and machine learning models.  
 
 About me :
 - Postgraduate New Grad in Business Insights and Analytics (May 2022 Graduation) @Humber College :star2:
