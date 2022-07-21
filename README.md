@@ -1,4 +1,4 @@
-# Hi there 👋👩💻
+# Welcome 👋
 
 I am Graziella. I am passionate about helping organizations make effective use of their data; from the first ideas around what it is important to measure and how to grab data accurately, through exploratory data analysis and data preparation, all the way to machine learning models and impactful presentation of insights.  
 
