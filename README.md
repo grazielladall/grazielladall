@@ -8,6 +8,7 @@ About me :
 - Hobbies: Books :books: | Chess :chess_pawn:
 - Technical Skills: SQL, Python, Microsoft Power BI, Tableau, Machine Learning, and more. 🖥️
 - Languages I speak: Portuguese, English, French, Spanish :earth_americas:
+- Currently working on a Datathon Project @Women in Sports Data
 - Connect with me: <a href="https://www.linkedin.com/in/grazielladall/">LinkedIn</a> 💼
 
 Check out my repository :point_down:
